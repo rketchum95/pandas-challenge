@@ -1,5 +1,9 @@
 # PyCitySchools
 
+### About
+A mock data analysis of school and student data using Panda Library and Jupyter Notebook.  
+
+
 ### Analysis
 
 * No discernable differences in scores based on overall grade levels.
